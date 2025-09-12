@@ -33,7 +33,6 @@
     <a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50"/></a>
     <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/></a>
     <a href="https://colab.research.google.com/"><img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="50" height="50"/></a>
-    <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/></a>
 </p>
 
 ---
